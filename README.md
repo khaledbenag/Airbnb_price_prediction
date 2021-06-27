@@ -7,6 +7,8 @@ In this notebook, I will focus only on listings data from Seattle and Boston. I 
 * Which are the property type most hosted?
 * Which are the most expensive and cheapest neighborhood in Seattle and Boston?
 
+For more insights please check my blog: https://k-benaggoune.medium.com/python-for-airbnb-hosts-exploration-boston-vs-seattle-cf9ca2126954
+
 # Requirements
 * Python 3
 * Jupyter notebook
