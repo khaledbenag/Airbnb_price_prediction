@@ -18,6 +18,15 @@ For more insights please check my blog: https://k-benaggoune.medium.com/python-f
 * Matplotlib
 * Numpy
 
+#!/bin/bash
+
+#File: tree-md
+
+tree=$(tree -tf --noreport -I '*~' --charset ascii $1 |
+       sed -e 's/| \+/  /g' -e 's/[|`]-\+/ */g' -e 's:\(* \)\(\(.*/\)\([^/]\+\)\):\1[\4](\2):g')
+
+printf "# Project tree\n\n${tree}"
+
 # References
 * Seattle data: https://www.kaggle.com/airbnb/seattle/data
 * Boston data: https://www.kaggle.com/airbnb/boston
