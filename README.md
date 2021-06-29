@@ -42,6 +42,6 @@ In this article, we explored Airbnb data from Seattle and Boston to understand t
 For more information please check my blog: https://k-benaggoune.medium.com/python-for-airbnb-hosts-exploration-boston-vs-seattle-cf9ca2126954
 
 # Acknowledgments
-I would thank #Udacity the data science advanced nanodegree program and Kaggle for providing the two datasets.
+I would thank #Udacity for the data science advanced nanodegree program and Kaggle for providing the two datasets.
 * Seattle data: https://www.kaggle.com/airbnb/seattle/data
 * Boston data: https://www.kaggle.com/airbnb/boston
