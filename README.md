@@ -37,7 +37,7 @@ For more insights please check my blog: https://k-benaggoune.medium.com/python-f
 
 # Conclusion 
 
-In this article, we explored Airbnb data from Seattle and Boston to understand three areas of interest: pricing, property type, and neighborhood impact. While we found useful information at each level, many questions remain, like which characteristics and their associated impact make each neighborhood different from the others. In addition, further inspection of the listings by seasonality could yield more information to accurately select the best features for the price prediction task.
+In this notebook, we explored Airbnb data from Seattle and Boston to understand three areas of interest: pricing, property type, and neighborhood impact. While we found useful information at each level, many questions remain, like which characteristics and their associated impact make each neighborhood different from the others. In addition, further inspection of the listings by seasonality could yield more information to accurately select the best features for the price prediction task.
 
 For more information please check my blog: https://k-benaggoune.medium.com/python-for-airbnb-hosts-exploration-boston-vs-seattle-cf9ca2126954
 
